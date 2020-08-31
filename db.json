@@ -1,0 +1,34 @@
+{
+  "cafeteria": [
+    {
+      "nombreProducto": "cafe",
+      "precioProducto": "90",
+      "categoria": "bebida-caliente",
+      "id": 1
+    },
+    {
+      "nombreProducto": "medialunas",
+      "precioProducto": "20",
+      "categoria": "dulce",
+      "id": 2
+    },
+    {
+      "nombreProducto": "tostado",
+      "precioProducto": "200",
+      "categoria": "sandwich",
+      "id": 3
+    },
+    {
+      "nombreProducto": "scon clasico",
+      "precioProducto": "70",
+      "categoria": "dulce",
+      "id": 5
+    },
+    {
+      "nombreProducto": "licuado de durazno",
+      "precioProducto": "150",
+      "categoria": "bebida-fria",
+      "id": 6
+    }
+  ]
+}
