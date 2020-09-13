@@ -1,14 +1,14 @@
 {
   "cafeteria": [
     {
-      "nombreProducto": "cafe",
+      "nombreProducto": "cafe en jarrita",
       "precioProducto": "90",
       "categoria": "bebida-caliente",
       "id": 1
     },
     {
-      "nombreProducto": "medialunas",
-      "precioProducto": "20",
+      "nombreProducto": "medialunas veganas",
+      "precioProducto": "25",
       "categoria": "dulce",
       "id": 2
     },
@@ -20,7 +20,7 @@
     },
     {
       "nombreProducto": "scon clasico",
-      "precioProducto": "70",
+      "precioProducto": "60",
       "categoria": "dulce",
       "id": 5
     },
